@@ -1,0 +1,18 @@
+C:\Users\Lenovo\source\repos\Cafe Billing system\Cafe Billing system\bin\Debug\net6.0-windows\Cafe Billing system.exe
+C:\Users\Lenovo\source\repos\Cafe Billing system\Cafe Billing system\bin\Debug\net6.0-windows\Cafe Billing system.deps.json
+C:\Users\Lenovo\source\repos\Cafe Billing system\Cafe Billing system\bin\Debug\net6.0-windows\Cafe Billing system.runtimeconfig.json
+C:\Users\Lenovo\source\repos\Cafe Billing system\Cafe Billing system\bin\Debug\net6.0-windows\Cafe Billing system.dll
+C:\Users\Lenovo\source\repos\Cafe Billing system\Cafe Billing system\bin\Debug\net6.0-windows\Cafe Billing system.pdb
+C:\Users\Lenovo\source\repos\Cafe Billing system\Cafe Billing system\obj\Debug\net6.0-windows\Cafe Billing system.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\Cafe Billing system\Cafe Billing system\obj\Debug\net6.0-windows\Cafe_Billing_system.Form1.resources
+C:\Users\Lenovo\source\repos\Cafe Billing system\Cafe Billing system\obj\Debug\net6.0-windows\Cafe_Billing_system.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\Cafe Billing system\Cafe Billing system\obj\Debug\net6.0-windows\Cafe Billing system.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\Cafe Billing system\Cafe Billing system\obj\Debug\net6.0-windows\Cafe Billing system.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\Cafe Billing system\Cafe Billing system\obj\Debug\net6.0-windows\Cafe Billing system.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\Cafe Billing system\Cafe Billing system\obj\Debug\net6.0-windows\Cafe Billing system.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\Cafe Billing system\Cafe Billing system\obj\Debug\net6.0-windows\Cafe Billing system.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Cafe Billing system\Cafe Billing system\obj\Debug\net6.0-windows\Cafe Billing system.dll
+C:\Users\Lenovo\source\repos\Cafe Billing system\Cafe Billing system\obj\Debug\net6.0-windows\refint\Cafe Billing system.dll
+C:\Users\Lenovo\source\repos\Cafe Billing system\Cafe Billing system\obj\Debug\net6.0-windows\Cafe Billing system.pdb
+C:\Users\Lenovo\source\repos\Cafe Billing system\Cafe Billing system\obj\Debug\net6.0-windows\Cafe Billing system.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\Cafe Billing system\Cafe Billing system\obj\Debug\net6.0-windows\ref\Cafe Billing system.dll
